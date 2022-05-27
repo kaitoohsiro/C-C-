@@ -4,7 +4,7 @@ using namespace std;
 #define NIL -1
 
 struct Node { int p, l, r; };
-// 
+
 Node T[MAX];
 int n, D[MAX];
 
